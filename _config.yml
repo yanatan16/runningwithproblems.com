@@ -1,19 +1,20 @@
 # You can find more information about each property here: https://github.com/kristofk/podcast-template/wiki/Podcast-properties
 
 # Channel properties
-title:
-description:
-language:
-category:
+title: Running with Problems
+description: A podcast about runners, running, and relationships.
+author: Miranda Williamson and Jon Eisen.
+language: English
+category: running
 imageURL:
-itunesExplicit:
+itunesExplicit: yes
 
 # Other info
-email:
+email: jon@joneisen.me
 
 # Jekyll properties
-baseurl:
-url:
+baseurl: runningwithproblems.run
+url: http://runningwithproblems.run
 
 # Build settings (only touch this if you know what you are doing)
 permalink: /episodes/:slug
