@@ -6,15 +6,15 @@ description: A podcast about runners, running, and relationships.
 author: Miranda Williamson and Jon Eisen.
 language: English
 category: running
-imageURL:
+imageURL: https://runningwithproblems.run/img/cover.png
 itunesExplicit: yes
 
 # Other info
-email: jon@joneisen.me
+email: sweet1miranda@hotmail.com
 
 # Jekyll properties
 baseurl: runningwithproblems.run
-url: http://runningwithproblems.run
+url: https://runningwithproblems.run
 
 # Build settings (only touch this if you know what you are doing)
 permalink: /episodes/:slug
