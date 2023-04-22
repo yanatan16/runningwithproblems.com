@@ -1,7 +1,8 @@
 ---
 # Jekyll properties
 layout: post
-slug: ep0-trailer
+slug:
+published: yes
 
 # RSS 2.0 properties
 title: Trailer
@@ -9,23 +10,26 @@ description: A Trailer for Running With Problems
 authorName: Miranda Williamson and Jon Eisen
 authorEmail: podcast@runningwithproblems.run
 comments:
-date: 2023-04-22 12:00:00 -0600
+date: 2023-04-22 11:00:00 -0600
 
 # iTunes properties
 itunesSubtitle: Trailer
 itunesSummary: A Trailer for Running With Problems
-itunesBlock:
+itunesBlock: no
 itunesEpisode: 0
 itunesSeason: 0
 itunesEpisodeType:
 itunesExplicit: no
 itunesImageLinkType: png
-itunesImage: https://runningwithproblems.run/img/cover.png
+itunesImage: /img/cover.png
 
 # Audio file properties
 audioFileLinkType: m4a
-audioFile: https://runningwithproblems.run/audio/ep0_trailer.m4a
+audioFile: /audio/ep0_trailer.m4a
 duration: 0:56 # e.g. 19:33
 length: 56 # e.g. 1173
 ---
 
+Trailer for Running with Problems with Miranda Williamson and Jon Eisen.
+
+Theme music by Matt Beard

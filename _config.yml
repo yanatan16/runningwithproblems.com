@@ -13,7 +13,7 @@ itunesExplicit: yes
 email: sweet1miranda@hotmail.com
 
 # Jekyll properties
-baseurl: runningwithproblems.run
+baseurl:
 url: https://runningwithproblems.run
 
 # Build settings (only touch this if you know what you are doing)
