@@ -5,28 +5,22 @@ slug:
 published: yes
 
 # RSS 2.0 properties
-title: First Episode with Nathan Kurz
-description: >
-  Our first episode is an interview with accomplished Boulder runner Nathan Kurz.
-authorName: Miranda Williamson and Jon Eisen
-authorEmail: podcast@runningwithproblems.run
-comments:
+title: Running different Speeds with Nathan Kurz
 date: 2023-04-22 12:00:00 -0600
 
 # iTunes properties
-itunesSubtitle: First Episode with Nathan Kurz
-itunesSummary: Our first episode is an interview with accomplished Boulder runner Nathan Kurz.
+itunesSubtitle: Running different Speeds with Nathan Kurz
 itunesBlock: no
 itunesEpisode: 1
 itunesSeason: 1
-itunesEpisodeType:
+itunesEpisodeType: full
 itunesExplicit: yes
-itunesImageLinkType: png
-itunesImage: /img/cover.png
+itunesImageLinkType: absolute
+itunesImage: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover_rblshc.png
 
 # Audio file properties
-audioFileLinkType: m4a
-audioFile: /audio/ep1_nathan_kurz.m4a
+audioFileLinkType: absolute
+audioFile: https://res.cloudinary.com/dm9zyeqzp/video/upload/v1682385893/rwp-audio/ep1_nathan_kurz_kp9jz5.m4a
 duration: 1:06:35 # e.g. 19:33
 length: 3995 # e.g. 1173
 ---

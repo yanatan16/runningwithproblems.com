@@ -175,6 +175,8 @@
         {% endif %}
 
         {% if post.description %}
+          <description>{{ post.description }}</description>
+        {% else %}
           <description>{{ post.content }}</description>
         {% endif %}
 

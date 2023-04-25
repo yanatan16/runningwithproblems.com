@@ -3,16 +3,21 @@
 # Channel properties
 title: Running with Problems
 description: A podcast about runners, running, and relationships.
-author: Miranda Williamson and Jon Eisen.
-language: English
-category: running
-imageURL: https://runningwithproblems.run/img/cover.png
+author: Mildly Athletic Couple
+language: en
+category: Relationships
+
 itunesExplicit: yes
-itunesImage: https://runningwithproblems.run/img/cover.png
-itunesAuthor: Miranda Williamson and Jon Eisen
+imageURL: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover_rblshc.png
+itunesImage: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover_rblshc.png
+itunesAuthor: Mildly Athletic Couple
+itunesCategory: Relationships
 
 # Other info
-email: sweet1miranda@hotmail.com
+email: podcast@runningwithproblems.run
+itunesOwnerEmail: podcast@runningwithproblems.run
+itunesOwnerName: Miranda Williamson and Jon Eisen
+itunesType: episodic
 
 # Jekyll properties
 baseurl:
