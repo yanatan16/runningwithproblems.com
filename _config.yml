@@ -6,9 +6,9 @@ description: A podcast about runners, running, and relationships.
 author: Miranda Williamson and Jon Eisen.
 language: English
 category: running
-imageURL: /img/cover.png
+imageURL: https://runningwithproblems.run/img/cover.png
 itunesExplicit: yes
-itunesImage: /img/cover.png
+itunesImage: https://runningwithproblems.run/img/cover.png
 itunesAuthor: Miranda Williamson and Jon Eisen
 
 # Other info
