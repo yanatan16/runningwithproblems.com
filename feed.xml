@@ -123,8 +123,8 @@
       <itunes:image href="{{ site.image }}"/>
     {% endif %}
 
-    {% if site.itunesCategory %}
-      <itunes:category>{{ site.itunesCategory }}</itunes:category>
+    {% if site.itunesCategoryTags %}
+      {{ site.itunesCategoryTags }}
     {% elsif site.category %}
       <itunes:category>{{ site.category }}</itunes:category>
     {% endif %}
