@@ -27,4 +27,4 @@ length: 56 # e.g. 1173
 
 Trailer for Running with Problems with Miranda Williamson and Jon Eisen.
 
-Theme music by Matt Beard
+Theme music by Matt Beer.

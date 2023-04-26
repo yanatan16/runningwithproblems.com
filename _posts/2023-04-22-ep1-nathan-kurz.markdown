@@ -5,11 +5,11 @@ slug:
 published: yes
 
 # RSS 2.0 properties
-title: Running different Speeds with Nathan Kurz
+title: Running different speeds with Nathan Kurz
 date: 2023-04-22 12:00:00 -0600
 
 # iTunes properties
-itunesSubtitle: Running different Speeds with Nathan Kurz
+itunesSubtitle: Running different speeds with Nathan Kurz
 itunesBlock: no
 itunesEpisode: 1
 itunesSeason: 1
@@ -27,4 +27,4 @@ length: 3995 # e.g. 1173
 
 Our first episode is an interview with accomplished Boulder runner Nathan Kurz.
 
-Theme music by Matt Beard
+Theme music by Matt Beer.
