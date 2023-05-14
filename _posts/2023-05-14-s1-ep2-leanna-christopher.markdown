@@ -6,7 +6,7 @@ published: yes
 
 # RSS 2.0 properties
 title: Close Running Partners with LeAnna Christopher
-date: 2023-05-15 13:00:00 -0600
+date: 2023-05-14 13:00:00 -0600
 
 # iTunes properties
 itunesSubtitle: Close Running Partners with LeAnna Christopher
