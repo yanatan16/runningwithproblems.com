@@ -21,7 +21,7 @@ itunesImage: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover
 # Audio file properties
 audioFileLinkType: absolute
 audioFile: https://res.cloudinary.com/dm9zyeqzp/video/upload/v1682385893/rwp-audio/ep1_nathan_kurz_kp9jz5.m4a
-duration: 1:06:35 # e.g. 19:33
+duration: "1:06:35" # e.g. 19:33
 length: 3995 # e.g. 1173
 ---
 

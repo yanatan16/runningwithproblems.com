@@ -21,7 +21,7 @@ itunesImage: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover
 # Audio file properties
 audioFileLinkType: absolute
 audioFile: https://res.cloudinary.com/dm9zyeqzp/video/upload/v1684091214/rwp-audio/s1_ep2_leanna_christopher_ym89we.m4a
-duration: 53:49
+duration: "53:49"
 length: 3229
 ---
 

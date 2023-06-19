@@ -21,7 +21,7 @@ itunesImage: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover
 # Audio file properties
 audioFileLinkType: absolute
 audioFile: https://res.cloudinary.com/dm9zyeqzp/video/upload/v1682385854/rwp-audio/ep0_trailer_y2lstu.m4a
-duration: 0:56 # e.g. 19:33
+duration: "0:56" # e.g. 19:33
 length: 56 # e.g. 1173
 ---
 

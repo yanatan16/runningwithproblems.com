@@ -21,7 +21,7 @@ itunesImage: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover
 # Audio file properties
 audioFileLinkType: absolute
 audioFile: https://res.cloudinary.com/dm9zyeqzp/video/upload/v1686509489/rwp-audio/s1_ep3_balancing_training_and_relationships_dhojvt.m4a
-duration: 1:10:31
+duration: "1:10:31"
 length: 4231
 ---
 
