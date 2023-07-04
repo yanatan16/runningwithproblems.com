@@ -5,11 +5,11 @@ slug:
 published: yes
 
 # RSS 2.0 properties
-title: Dealing with Injury with Chelsea Lawson
+title: Dealing with Injury with our friend Chelsea
 date: 2023-07-01 13:30:00 -0600
 
 # iTunes properties
-itunesSubtitle: Dealing with Injury with Chelsea Lawson
+itunesSubtitle: Dealing with Injury with our friend Chelsea
 itunesBlock: no
 itunesEpisode: 5
 itunesSeason: 1
@@ -25,7 +25,7 @@ duration: "54:44"
 length: 3284
 ---
 
-Season 1 Episode 5 - Dealing with Injury with Chelsea Lawson
+Season 1 Episode 5 - Dealing with Injury with our friend Chelsea
 
 In this episode, we dive deep into Chelsea's powerful story of injury and recovery.
 
