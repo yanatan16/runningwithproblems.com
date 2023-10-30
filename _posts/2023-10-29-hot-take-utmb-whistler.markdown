@@ -5,11 +5,11 @@ slug:
 published: yes
 
 # RSS 2.0 properties
-title: HOT TAKE: Gary Robbins, UTMB, and Whistler
+title: UTMB Whistler Drama with Luke Nelson and Caleb Efta
 date: 2023-10-29 17:30:00 -0600
 
 # iTunes properties
-itunesSubtitle: HOT TAKE: Gary Robbins, UTMB, and Whistler
+itunesSubtitle: UTMB Whistler Drama with Luke Nelson and Caleb Efta
 itunesBlock: no
 itunesEpisode: 4
 itunesSeason: 2
