@@ -27,6 +27,7 @@ length: 3276
 
 Race Directors Caleb Efta and Luke Nelson join Jon and Miranda to discuss the recent drama in the trail and ultra community. Gary Robbins' story of his race, Whistler Alpine Meadows, being pushed out of Whistler in favor of a new UTMB race in the same location sharing much of the same trails has ignited the trail and ultra scene online. We gather to discuss what the issues are and how we as a community can respond.
 
+- Gary Robbins Blog Post: https://garyrobbinsrun.com/blog/2023/10/what-really-went-down-in-whistler
 - Caleb's race company [Freestone Endurance](https://www.freestoneendurance.com) is opening sign ups for [High Lonesome 100](https://www.highlonesome100.com) lottery  and all volunteer spots on January 2nd.
 - Luke's race [Scout Mountain Ultras](https://scoutmountainultras.com) takes place in early June in Pocatello, Idaho. Sign ups for the 100 miler open on December 1st and the rest of the distances on January 1st.
 
