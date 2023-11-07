@@ -2,16 +2,16 @@
 
 # Channel properties
 title: Running with Problems
-description: A podcast about runners, running, and relationships.
+description: A podcast about the challenges we face as runners, from navigating our bodies, dealing with social dynamics, and facing personal trauma
 author: Mildly Athletic Couple
 language: en
-category: Relationships
+category: "Health &amp; Fitness"
 
 itunesExplicit: yes
 imageURL: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover_rblshc.png
 itunesImage: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover_rblshc.png
 itunesAuthor: Mildly Athletic Couple
-itunesCategory: Relationships
+itunesCategory: "Health &amp; Fitness"
 
 # Other info
 email: podcast@runningwithproblems.run
@@ -23,9 +23,6 @@ itunesCategoryTags: |
   <itunes:category text="Health &amp; Fitness">
     <itunes:category text="Fitness"/>
     <itunes:category text="Mental Health"/>
-  </itunes:category>
-  <itunes:category text="Society &amp; Culture">
-    <itunes:category text="Relationships"/>
   </itunes:category>
 
 # Jekyll properties
