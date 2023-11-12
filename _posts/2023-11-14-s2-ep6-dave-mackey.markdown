@@ -31,6 +31,7 @@ Dave Mackey joins Jon and Miranda for an in-depth and emotional interview on his
 - Check out [LEADMAN: The Dave Mackey Story](https://www.youtube.com/watch?v=D5zti8iBbRI)
 - Jon mentions one of his favorite running documentaries in the episode: [Running on the Sun](https://www.youtube.com/watch?v=dl3laLhbCsw)
 - Dave recommends this running doc on the show: [The Terry Fox Story](https://www.youtube.com/watch?v=PPcXMg3E9KQ)
+- Dave mentions the [Challenged Athletes Foundation](https://www.challengedathletes.org) in the show. They help adaptive athletes get the equipment and services they need.
 
 Follow @runningwithproblems on Instagram for future updates. Future topics include adaptive athletes with prosthetics, sobriety, motivation, race directing, and more! Send feedback and ideas to podcast@runningwithproblems.run or @runningwithproblems on Instagram.
 
