@@ -20,7 +20,7 @@ itunesImage: https://episodes.runningwithproblems.run/cover.png
 
 # Audio file properties
 audioFileLinkType: absolute
-audioFile: https://episodes.runningwithproblems.run/s2_ep8_coutney_boyle.m4a
+audioFile: https://episodes.runningwithproblems.run/s2_ep8_courtney_boyle.m4a
 duration: "01:17:48"
 length: 4668
 ---
