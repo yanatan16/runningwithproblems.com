@@ -1,0 +1,41 @@
+---
+# Jekyll properties
+layout: post
+slug:
+published: yes
+
+# RSS 2.0 properties
+title: Preparing For 100 Miles with Rachel Meier and Christie Amero
+date: 2024-04-03 18:00:00 -0600
+
+# iTunes properties
+itunesSubtitle: Preparing For 100 Miles with Rachel Meier and Christie Amero
+itunesBlock: no
+itunesEpisode: 5
+itunesSeason: 3
+itunesEpisodeType: full
+itunesExplicit: yes
+itunesImageLinkType: absolute
+itunesImage: https://episodes.runningwithproblems.run/cover.png
+
+# Audio file properties
+audioFileLinkType: absolute
+audioFile: https://episodes.runningwithproblems.run/s3_ep5_100_miles.m4a
+duration: "01:36:11"
+length: 5771
+---
+
+Join Rachel Meier, Christie Amero, Jon, and Miranda as we discuss how we prepare for 100 miles, from our fears to our hopes and dreams, from gear to pacers, and how to recover.
+
+
+Show Notes:
+- Watch the High Lonesome 100 documentary: [The Well](https://www.youtube.com/watch?v=W9hM4KvxWUE)
+- Jon mentioned the first ultra running book he read: [Hal Koerner's Field Guide To Ultrarunning](https://www.amazon.com/Koerners-Field-Guide-Ultrarunning-Ultramarathon/dp/1937715221)
+- Some gear we talked about on the show:
+    - [Sport Shield Wipes](https://www.amazon.com/dp/B0772VB9KR)
+    - Arc Teryx Norvan Shell for [Mens](https://arcteryx.com/us/en/shop/mens/norvan-shell-jacket) and [Womens](https://arcteryx.com/us/en/shop/womens/norvan-shell-jacket)
+
+
+Follow [@runningwithproblems](https://www.instagram.com/runningwithproblems/) on Instagram for future updates. Send feedback and ideas to podcast@runningwithproblems.run or @runningwithproblems on Instagram.
+
+Theme music by Matt Beer. Follow him on [Soundcloud](https://soundcloud.com/mattbeermusic).
