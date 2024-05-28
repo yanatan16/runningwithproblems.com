@@ -1,0 +1,35 @@
+---
+# Jekyll properties
+layout: post
+slug:
+published: yes
+
+# RSS 2.0 properties
+title: "Check-in: Niwot's Recap and Listener Questions"
+date: 2024-05-31 12:00:00 -0600
+
+# iTunes properties
+itunesSubtitle: "Check-in: Niwot's Recap and Listener Questions"
+itunesBlock: no
+itunesEpisode: 9
+itunesSeason: 3
+itunesEpisodeType: full
+itunesExplicit: yes
+itunesImageLinkType: absolute
+itunesImage: https://episodes.runningwithproblems.run/cover.png
+
+# Audio file properties
+audioFileLinkType: absolute
+audioFile: https://episodes.runningwithproblems.run/s3_ep9_checkin.mp3
+duration: "59:47"
+length: 3587
+---
+
+On this check-in episode with Miranda and Jon, Jon dives into his Niwot's Challenge race recap and his San Diego 100 training. We answer questions from listeners such as, what should you do when a person with a bad attitude wants to join your group? and how to handle training over vacations?
+
+Show Notes:
+- Jon's [Niwot's Challenge Race Report](https://joneisen.me/running/2024/05/25/niwots-challenge-2024.html) is live now on his blog.
+
+Follow [@runningwithproblems](https://www.instagram.com/runningwithproblems/) on Instagram for future updates. Send questions or audio messages to podcast@runningwithproblems.run or @runningwithproblems on Instagram.
+
+Theme music by Matt Beer. Follow him on [Soundcloud](https://soundcloud.com/mattbeermusic).
