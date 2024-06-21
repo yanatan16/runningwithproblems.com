@@ -30,6 +30,7 @@ A conversation with the founders of Milestone Running, Greg Lemon ([@glemon09](h
 Show Notes:
 
 - Check Out Milestone Running ([website](https://milestonerunning.com), [instagram](https://www.instagram.com/milestonerunning/)), or join them for the very popular Wednesday night run at 6:15 from their original North Park store.
+- [Juntos Shoes](https://juntos.co/) was discussed in the episode.
 
 Follow [@runningwithproblems](https://www.instagram.com/runningwithproblems/) on Instagram for future updates. Send questions or audio messages to podcast@runningwithproblems.run or @runningwithproblems on Instagram.
 
