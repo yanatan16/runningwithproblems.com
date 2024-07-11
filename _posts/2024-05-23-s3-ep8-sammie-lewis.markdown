@@ -5,11 +5,11 @@ slug:
 published: yes
 
 # RSS 2.0 properties
-title: Sammie Lewis on Dealing with health challenges and building a business
+title: Sammie Lewis - Overcoming Ankylosing spondylitis and building a business
 date: 2024-05-23 18:00:00 -0600
 
 # iTunes properties
-itunesSubtitle: Sammie Lewis on Dealing with health challenges and building a business
+itunesSubtitle: Sammie Lewis - Overcoming Ankylosing spondylitis and building a business
 itunesBlock: no
 itunesEpisode: 8
 itunesSeason: 3
