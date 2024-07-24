@@ -5,11 +5,11 @@ slug:
 published: yes
 
 # RSS 2.0 properties
-title: Check-in: A difficult year and Jon's High Lonesome 100
+title: "Check-in: A difficult year and Jon's High Lonesome 100"
 date: 2024-07-23 17:00:00 -0600
 
 # iTunes properties
-itunesSubtitle: Check-in: A difficult year and Jon's High Lonesome 100
+itunesSubtitle: "Check-in: A difficult year and Jon's High Lonesome 100"
 itunesBlock: no
 itunesEpisode: 14
 itunesSeason: 3
