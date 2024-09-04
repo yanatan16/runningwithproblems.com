@@ -6,7 +6,7 @@ published: yes
 
 # RSS 2.0 properties
 title: "Samir Chopra - Anxiety: A Philosophical Guide"
-date: 2024-09-03 12:00:00 -0600
+date: 2024-09-04 12:41:00 -0600
 
 # iTunes properties
 itunesSubtitle: "Samir Chopra - Anxiety: A Philosophical Guide"
