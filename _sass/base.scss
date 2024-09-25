@@ -93,7 +93,7 @@ h4, h5 {
  * Links
  */
 a {
-    color: $grey-color-dark;
+    color: darken($grey-color-dark, 10%);
     text-decoration: none;
 
     .preview-content &, .post-content & {

@@ -3,8 +3,11 @@ layout: default
 ---
 <main>
     <h1>{{page.title}}</h1>
+    <h3>Season {{page.itunesSeason}} Episode {{page.itunesEpisode}}</h3>
 
-    <img src="{{page.itunesImage}}"/>
+    <div style="display: flex; justify-content: center">
+        <figure><img src="{{page.itunesImage}}" width="400px" /></figure>
+    </div>
 
     {{page.content}}
 </main>

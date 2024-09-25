@@ -1,0 +1,21 @@
+.site-header {
+    padding: 1em;
+    background: $brand-color;
+    margin-bottom: 1em;
+
+    .wrapper {
+        display: flex;
+        jusitfy-content: space-between;
+        width: 100%;
+
+        #site-title {
+            flex: 1;
+            font-size: $base-font-size * 1.2;
+            font-weight: $bold-font-weight;
+
+            &:hover {
+                color: $grey-color-dark;
+            }
+        }
+    }
+}

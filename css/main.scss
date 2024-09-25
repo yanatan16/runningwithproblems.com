@@ -20,7 +20,7 @@ $spacing-unit:     30px;
 
 $text-color:       #000102;
 $background-color: #fff;
-$brand-color:      darken(#fcba03, 10%);
+$brand-color:      #ff5756;
 
 $grey-color:       #597fa5;
 $grey-color-light: lighten($grey-color, 40%);
@@ -51,3 +51,4 @@ $on-laptop:        400px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base";
+@import "header";
