@@ -6,7 +6,7 @@ published: yes
 
 # RSS 2.0 properties
 title: "Scott Miller - Breakfast Club and Trail Ambitions"
-date: 2024-10-07 12:00:00 -0600
+date: 2024-10-07 17:23:00 -0600
 
 # iTunes properties
 itunesSubtitle: "Scott Miller - Breakfast Club and Trail Ambitions"
