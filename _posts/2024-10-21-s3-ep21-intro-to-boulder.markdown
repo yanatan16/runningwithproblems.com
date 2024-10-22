@@ -6,7 +6,7 @@ published: yes
 
 # RSS 2.0 properties
 title: "Becoming a Boulder Runner - Lauren Scherer and Kate Lysaught"
-date: 2024-10-21 12:00:00 -0600
+date: 2024-10-21 18:33:00 -0600
 
 # iTunes properties
 itunesSubtitle: "Becoming a Boulder Runner - Lauren Scherer and Kate Lysaught"
