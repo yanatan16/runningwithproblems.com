@@ -93,7 +93,7 @@ h4, h5 {
  * Links
  */
 a {
-    color: darken($grey-color-dark, 10%);
+    color: darken($brand-color, 20%);
     text-decoration: none;
 
     .preview-content &, .post-content & {
@@ -101,11 +101,11 @@ a {
     }
 
     &:visited {
-        color: $grey-color-dark;
+        color: darken($brand-color, 40%);
     }
 
     &:hover {
-        color: $brand-color;
+        color: darken($brand-color, 40%);
         text-decoration: underline;
     }
 }

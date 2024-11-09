@@ -9,12 +9,13 @@
         width: 100%;
 
         #site-title {
+            color: $brand-highlight;
             flex: 1;
             font-size: $base-font-size * 1.2;
             font-weight: $bold-font-weight;
 
             &:hover {
-                color: $grey-color-dark;
+                color: darken($brand-highlight, 10%);
             }
         }
     }

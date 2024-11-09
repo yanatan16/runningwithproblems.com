@@ -4,9 +4,9 @@ layout: home
 
 
 
-A podcast about runners and relationships with Miranda Williamson and [Jon Eisen](https://joneisen.me).
+A podcast about the challenges we face as runners, from navigating our bodies, dealing with social dynamics, and facing personal trauma with [Miranda Williamson](https://www.instagram.com/moderately_athletic/) and [Jon Eisen](https://joneisen.me).
 
-  <img src="https://episodes.runningwithproblems.run/cover.png" width="200px" align="right" />
+  <img src="https://episodes.runningwithproblems.run/logo.png" width="200px" align="right" />
 
 Listen to it on:
 
