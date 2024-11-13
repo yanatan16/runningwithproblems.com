@@ -1,0 +1,23 @@
+
+<script>
+ function mediaObject(audioFile) {
+     var media = {};
+     var audioFileSplit = audioFile.split(".");
+     media[audioFileSplit[audioFileSplit.length - 1]] = audioFile;
+     return media;
+ }
+
+ window.playerConfiguration = {
+     "podcast": {
+         "title": "{{ site.title }}",
+         "feed": "{{ site.url }}/feed.xml",
+     },
+     "episode": {
+         "media": mediaObject("{{ page.audioFile }}"),
+         "title": "{{ page.title }}",
+         "coverUrl": "{{ page.itunesImage }}",
+         "url": "{{ site.url }}{{ page.url }}",
+     }
+ };
+</script>
+<script class="podigee-podcast-player" src="https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="playerConfiguration"></script>

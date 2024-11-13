@@ -5,8 +5,10 @@ layout: default
     <h1>{{page.title}}</h1>
     <h3>Season {{page.itunesSeason}} Episode {{page.itunesEpisode}}</h3>
 
-    <div style="display: flex; justify-content: center">
-        <figure><img src="{{page.itunesImage}}" width="400px" /></figure>
+    {% include player.html %}
+
+    <div style="margin-top: 1em">
+    <img src="{{page.itunesImage}}" height="300px" align="left" style="margin: 2em"/>
     </div>
 
     {{page.content}}
