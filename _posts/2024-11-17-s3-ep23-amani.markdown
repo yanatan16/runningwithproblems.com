@@ -1,0 +1,37 @@
+---
+# Jekyll properties
+layout: post
+slug:
+published: yes
+
+# RSS 2.0 properties
+title: "Amani on launching Sheer Love Rwanda"
+date: 2024-11-17 12:00:00 -0600
+
+# iTunes properties
+itunesSubtitle: "Amani on launching Sheer Love Rwanda"
+itunesBlock: no
+itunesEpisode: 23
+itunesSeason: 3
+itunesEpisodeType: full
+itunesExplicit: yes
+itunesImageLinkType: absolute
+itunesImage: https://episodes.runningwithproblems.run/cover.png
+
+# Audio file properties
+audioFileLinkType: absolute
+audioFile: https://episodes.runningwithproblems.run/s3_ep23_amani.mp3
+duration: "47:36"
+length: 2856
+
+chapters_file: /chapters/s3_ep23_amani.json
+---
+
+Alexis Amani Simbayobewe is an educator, nonprofit founder, and survivor of the Rwandan genocide. Join us as we learn about how he launched [Sheer Love Rwanda](https://www.sheer-love-rwanda.org/) to teach children about life and a little bit of running.
+
+Show Notes:
+- Consider donating to [Sheer Love Rwanda](https://www.sheer-love-rwanda.org/). Your donation goes a long way.
+
+Follow [@runningwithproblems](https://www.instagram.com/runningwithproblems/) on Instagram for future updates. Send questions or audio messages to podcast@runningwithproblems.run or @runningwithproblems on Instagram.
+
+Theme music by Matt Beer. Follow him on [Soundcloud](https://soundcloud.com/mattbeermusic).

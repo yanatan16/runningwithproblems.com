@@ -249,13 +249,17 @@
         {% endif %}
 
         {% if post.itunesImage %}
-          {% if post.itunesImageLinkType == "absolute" %}
-          <itunes:image href="{{ post.itunesImage }}"/>
-          {% else %}
-          <itunes:image href="{{ site.url }}{{ post.itunesImage }}"/>
-          {% endif %}
+        {% if post.itunesImageLinkType == "absolute" %}
+        <itunes:image href="{{ post.itunesImage }}"/>
+        {% else %}
+        <itunes:image href="{{ site.url }}{{ post.itunesImage }}"/>
+        {% endif %}
         {% else %}
         <itunes:image href="{{ site.url }}/assets/artwork.jpg"/>
+        {% endif %}
+
+        {% if post.chapters_file %}
+        <podcast:chapters url="{{ site.url }}{{ post.chapters_file }}"/>
         {% endif %}
 
       </item>
