@@ -4,7 +4,7 @@ layout: home
 
 
 
-A podcast about the challenges we face as runners, from navigating our bodies, dealing with social dynamics, and facing personal trauma with [Miranda Williamson](https://www.instagram.com/moderately_athletic/) and [Jon Eisen](https://joneisen.me).
+A podcast about running and the lives of runners with [Miranda Williamson](https://www.instagram.com/moderately_athletic/) and [Jon Eisen](https://joneisen.me).
 
   <img src="https://episodes.runningwithproblems.run/logo.png" width="200px" align="right" />
 

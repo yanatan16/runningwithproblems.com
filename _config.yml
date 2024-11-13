@@ -2,14 +2,14 @@
 
 # Channel properties
 title: Running with Problems
-description: A podcast about the challenges we face as runners, from navigating our bodies, dealing with social dynamics, and facing personal trauma
+description: A podcast about the running and the lives of runners.
 author: Mildly Athletic Couple
 language: en
 category: "Health &amp; Fitness"
 
 itunesExplicit: yes
-imageURL: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover_rblshc.png
-itunesImage: https://res.cloudinary.com/dm9zyeqzp/image/upload/v1682385897/cover_rblshc.png
+imageURL: https://episodes.runningwithproblems.run/logo.png
+itunesImage: https://episodes.runningwithproblems.run/logo.png
 itunesAuthor: Mildly Athletic Couple
 itunesCategory: "Health &amp; Fitness"
 
