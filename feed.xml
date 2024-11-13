@@ -2,9 +2,10 @@
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+     xmlns:atom="http://www.w3.org/2005/Atom" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <atom:link href="{{ site.url }}/standardfeed.xml" rel="self" type="application/rss+xml" />
 
@@ -158,6 +159,18 @@
       <itunes:complete>{{ site.itunesComplete }}</itunes:complete>
     {% endif %}
 
+    <!-- **************************************** -->
+    <!-- ************* Podcast tags ************* -->
+    <!-- **************************************** -->
+
+    {% if site.podcast.locked %}
+      <podcast:locked owner="{{ site.email }}">yes</podcast:locked>
+    {% endif %}
+
+    {% if site.podcast.updateFrequency %}
+      <podcast:updateFrequency rrule="{{ site.podcast.updateFrequency.rrule }}">{{ site.podcast.updateFrequency.name }}</podcast:updateFrequency>
+    {% endif %}
+
     <!-- ############################################################################### -->
     <!-- ############################### ITEM PROPERTIES ############################### -->
     <!-- ############################################################################### -->
@@ -234,10 +247,12 @@
 
         {% if post.itunesEpisode %}
         <itunes:episode>{{ post.itunesEpisode }}</itunes:episode>
+        <podcast:episode>{{ post.itunesEpisode }}</podcast:episode>
         {% endif %}
 
         {% if post.itunesSeason %}
         <itunes:season>{{ post.itunesSeason }}</itunes:season>
+        <podcast:season>{{ post.itunesEpisode }}</podcast:season>
         {% endif %}
 
         {% if post.itunesEpisodeType %}
@@ -259,7 +274,7 @@
         {% endif %}
 
         {% if post.chapters_file %}
-        <podcast:chapters url="{{ site.url }}{{ post.chapters_file }}"/>
+        <podcast:chapters url="{{ site.url }}{{ post.chapters_file }}" type="application/json+chapters"/>
         {% endif %}
 
       </item>
