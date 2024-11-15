@@ -13,6 +13,13 @@ itunesImage: https://episodes.runningwithproblems.run/logo.png
 itunesAuthor: Mildly Athletic Couple
 itunesCategory: "Health &amp; Fitness"
 
+# Podcast Namespace Tags
+podcast:
+  locked: yes
+  updateFrequency:
+    name: Biweekly
+    rrule: "FREQ=WEEKLY;INTERVAL=2"
+
 # Other info
 email: podcast@runningwithproblems.run
 itunesOwnerEmail: podcast@runningwithproblems.run
