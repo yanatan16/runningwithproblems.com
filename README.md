@@ -5,4 +5,4 @@ title: readme
 
 # Running With Problems
 
-A podcast
+A podcast about running and the lives of runners.
