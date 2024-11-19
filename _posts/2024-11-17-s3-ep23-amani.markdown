@@ -16,7 +16,7 @@ itunesSeason: 3
 itunesEpisodeType: full
 itunesExplicit: yes
 itunesImageLinkType: absolute
-itunesImage: https://episodes.runningwithproblems.run/logo.png
+itunesImage: https://episodes.runningwithproblems.run/logo_3000.png
 
 # Audio file properties
 audioFileLinkType: absolute
