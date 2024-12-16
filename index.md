@@ -14,4 +14,4 @@ Listen to it on:
 - [Spotify](https://open.spotify.com/show/5V5FI3Z23dE8WkgSaCS6uq?si=6cd3d44297d9471c)
 - [RSS Feed Link](feed.xml)
 
-Follow us on Instagram: [@runningwithproblems](https://instagram.com/runningwithproblems)
+Follow us on Instagram: [@runningwithproblems](https://instagram.com/runningwithproblems) or email us at [podcast@runningwithproblems.run](mailto:podcast@runningwithproblems.run).
