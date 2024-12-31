@@ -2,7 +2,7 @@
 
 # Channel properties
 title: Running with Problems
-description: A podcast about the running and the lives of runners. RSSVERIFY
+description: A podcast about the running and the lives of runners.
 author: Mildly Athletic Couple
 language: en
 category: "Health &amp; Fitness"
@@ -15,7 +15,7 @@ itunesCategory: "Health &amp; Fitness"
 
 # Podcast Namespace Tags
 podcast:
-  locked: yes
+  locked: no
   updateFrequency:
     name: Biweekly
     rrule: "FREQ=WEEKLY;INTERVAL=2"
